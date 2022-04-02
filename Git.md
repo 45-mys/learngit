@@ -14,6 +14,7 @@ git status	查看仓库当前的状态，显示有变更的文件
 git diff	比较文件的不同，即暂存区和工作区差异
 git commit	提交暂存区到本地仓库
 git checkout -- <file>	撤销修改
+git reset HEAD <file> 把暂存区的修改文件回退到工作区
 git rm 	删除工作区文件
 git mv	移动或重命名工作区文件
 
