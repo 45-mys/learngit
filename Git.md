@@ -5,7 +5,7 @@ git clone 拷贝一份远程仓库，也就是下载一个项目
 
 #### 提交与修改
 
-git add	添加文件到仓库
+git add	添加文件到仓库 git add . 添加全部
 git status	查看仓库当前的状态，显示有变更的文件
 git diff	比较文件的不同，即暂存区和工作区差异
 git commit	提交暂存区到本地仓库
